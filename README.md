@@ -4,10 +4,7 @@ Migrate From Eclipse ADT SQL console, Based on Class CL_ADT_DP_OPEN_SQL_HANDLER
 # Example source code
 example 1
 <pre><code>
-select *
-  from tj02t
-  into table @data(lt_alv)
-  up to 10 rows.
+select *  from tj02t
 </code></pre>
 
 example 2
