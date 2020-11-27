@@ -10,7 +10,7 @@ example 1
 <pre><code>
 select *  from tj02t
 </code></pre>
-
+![example output](https://github.com/hand7666/hand7666.github.io/blob/master/img/TIM%E6%88%AA%E5%9B%BE20201127111522.png)
 example 2
 <pre><code>
 SELECT 
